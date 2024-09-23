@@ -4,7 +4,7 @@ class User {
     }
 
         sendMessage(){
-            console.log("Mensagem enviada para:", this.email)
+            console.log("Mensagem enviada para:", this.email);
         }
 }
 
